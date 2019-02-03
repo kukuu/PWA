@@ -1,0 +1,22 @@
+{
+  "name": "alternative-news",
+  "version": "1.0.0",
+  "description": "Online demo can be found on https://marcushellberg.github.io/alternative-news",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcushellberg/alternative-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcushellberg/alternative-news/issues"
+  },
+  "homepage": "https://github.com/marcushellberg/alternative-news#readme",
+  "dependencies": {
+    "workbox-sw": "^3.5.0"
+  }
+}
