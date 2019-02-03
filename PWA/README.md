@@ -5,7 +5,7 @@ https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md
 
 ## Comments
 
-The comments in the JS files this  serve to provide explanation for the script in some of its behaviour. There are cleaner versions labelled with the prefix light.
+The comments in the JS files: This  serves to provide explanation for the script in some of its behaviour. There are cleaner versions labelled with the prefix light.
 
 ### Using Workbox by Google
 
