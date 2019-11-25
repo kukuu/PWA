@@ -70,6 +70,8 @@ Additionally, Capacitor's JavaScript API has a number of utilities that make it 
 
 For example, if your app would normally rely on the Camera app being used to take a photo, you could check if the Camera is available, and if not, ask the user to upload a file instead:
 
+##### Feature detection:
+
 ```
 import { Capacitor } from '@capacitor/core';
 
