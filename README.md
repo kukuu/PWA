@@ -164,4 +164,6 @@ Alternative news Application
 
 https://github.com/kukuu/PWA/tree/master/PWA/1/alternative-news
 
-![PWA]https://github.com/kukuu/PWA/blob/master/PWA/an-2.png)
+![PWA](https://github.com/kukuu/PWA/blob/master/PWA/an-2.png)
+
+
