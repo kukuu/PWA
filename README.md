@@ -159,3 +159,9 @@ Native apps provide the best user experience because they are specifically desig
 ### Paid or Free app
 
 Since native apps have the best UI hence paid apps are usually advised to be developed as native apps whereas free apps can be developed as hybrid apps.
+
+Alternative news Application
+
+https://github.com/kukuu/PWA/tree/master/PWA/1/alternative-news
+
+![PWA]https://github.com/kukuu/PWA/blob/master/PWA/an-2.png)
