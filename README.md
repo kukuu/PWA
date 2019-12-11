@@ -166,4 +166,6 @@ https://github.com/kukuu/PWA/tree/master/PWA/1/alternative-news
 
 ![PWA](https://github.com/kukuu/PWA/blob/master/PWA/an-2.png)
 
+## Business consultancy development in action
 
+https://github.com/kukuu/PWA/blob/master/PWA-business-case.md
