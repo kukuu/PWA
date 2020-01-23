@@ -1,6 +1,6 @@
 # Progressive Web App (PWA)
  
-Finally, Hybrid apps will soon be out as most companies are moving towards Native apps using similar tech like React Native. These are Progressive Web Apps (PWA).
+Finally, Hybrid apps will soon be out as most companies are moving towards Native apps using similar technology like React Native. These are Progressive Web Apps (PWA).
 
 PWAs leverage sophisticated web capabilities to deliver in-app experiences to mobile website visitors. 
 This includes the ability for visitors to add the website to their mobile home screen, access content while offline, receive mobile notifications from publishers, and more!
